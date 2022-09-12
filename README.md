@@ -6,7 +6,7 @@ _"A Trybe é uma escola do futuro para qualquer pessoa que queira melhorar de vi
 
 O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda introdução ao desenvolvimento de software, front-end, back-end, ciência da computação, engenharia de software, metodologias ágeis e habilidades comportamentais.
 
-## Fundamentos do Desenvolvimento Web
+## Fundamentos do Desenvolvimento Web :hourglass_flowing_sand:
 
 ##### Bloco 1: Introdução - Unix & Shell
 
@@ -62,3 +62,48 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [ ] 8-3: _JavaScript ES6 - Higher Order Functions - map e filter_
 - [ ] 8-4: _JavaScript ES6 - Higher Order Functions - reduce_
 - [ ] 8-5: _JavaScript ES6 - spread operator, parâmetro rest, destructuring e mais_
+
+## Desenvolvimento Front-End :hourglass_flowing_sand:
+
+#### Bloco 9: JavaScript e Testes Assíncronos
+
+- [ ] 9-1: _JavaScript Assíncrono e Callbacks_
+- [ ] 9-2: _JavaScript Assíncrono - Fetch API e async/await_
+- [ ] 9-3: _Jest - Testes Assíncronos_
+
+#### Bloco 10: Introdução à React
+
+- [ ] 10-1: _Introdução - React_
+- [ ] 10-2: _Componentes React_
+
+#### Bloco 11: Componentes com Estado, Eventos e Formulários com React
+
+- [ ] 11-1: _Componentes com estado e eventos_
+- [ ] 11-2: _Formulários com React_
+
+#### Bloco 12: Ciclo de Vida de Componentes e React Router
+
+- [ ] 12-1: _Ciclo de vida de componentes_
+- [ ] 12-2: _React Router_
+
+#### Bloco 13: Metodologias Ágeis
+
+- [ ] 13-1: _Metodologias ágeis_
+
+#### Bloco 14: Testes automatizados com React Testing Library
+
+- [ ] 14-1: _RTL - Primeiros passos_
+- [ ] 14-2: _RTL - Mocks e Inputs_
+- [ ] 14-3: _RTL - Testando React Router_
+
+#### Bloco 15: Gerenciamento de estado com Redux
+
+- [ ] 15-1: _Introdução ao Redux - O estado global da aplicação_
+- [ ] 15-2: _Usando o Redux no React_
+- [ ] 15-3: _Usando o Redux no React - Prática_
+- [ ] 15-4: _Usando o Redux no React - Actions Assíncronas_
+- [ ] 15-5: _Testes em React-Redux_
+
+#### Bloco 17: Context API e React Hooks
+
+- [ ] 17-1: _
