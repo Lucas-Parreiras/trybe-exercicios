@@ -19,7 +19,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 - [X] 2-1: _O que é e para que serve?_
 - [X] 2-2: _Entendendo os comandos_
-- [ ] 2-3: _Internet - Entendendo como ela funciona_
+- [X] 2-3: _Internet - Entendendo como ela funciona_
 
 #### Bloco 3: Introcução à HTML e CSS
 
@@ -173,4 +173,110 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 #### Bloco 23: Arquitetura de Software: Model, Service e Controller
 
-- [ ] 23-1: _
+- [ ] 23-1: _Arquitetura de Software: Camada Model_
+- [ ] 23-2: _Arquitetura de Software: Camada Service_
+- [ ] 23-3: _Arquitetura de Software: Camada Controller_
+- [ ] 23-4: _Projeto - Store Manager_
+
+#### Bloco 24: Node.js: ORM e Autenticação
+
+- [ ] 24-1: _Node.js: ORM e Autenticação_
+- [ ] 24-1: _ORM - Interface da aplicação com o banco de dados_
+- [ ] 24-2: _ORM - Associations 1:1 e 1:N_
+- [ ] 24-3: _ORM - Associations N:N e Transactions_
+- [ ] 24-4: _JWT - JSON Web Token_
+- [ ] 24-5: _Projeto - API de Blogs_
+
+#### Bloco 25: Deployment
+
+- [ ] 25-1: _Infraestrutura - Deploy com Heroku_
+- [ ] 25-2: _Deploy Docker & Heroku_
+- [ ] 25-3: _Projeto - Stranger Things_
+
+#### Bloco 26: TypeScript
+
+- [ ] 26-1: _Introdução ao TypeScript_
+- [ ] 26-2: _Tipagem Estatica e Genérica_
+- [ ] 26-3: _Express com TypeScript_
+- [ ] 26-4: _Projeto - Trybe Smith_
+
+#### Bloco 27: Programação Orientada a Objetos (POO) e SOLID
+
+- [ ] 27-1: _Introdução à Orientação a Objetos_
+- [ ] 27-2: _Herança e Interfaces_
+- [ ] 27-3: _Polimorfismo_
+- [ ] 27-4: _SOLID - Introdução e Princípios S, O e D_
+- [ ] 27-5: _SOLID - Princípios L e I_
+- [ ] 27-6: _Projeto - Trybers and Dragons_
+
+#### Bloco 28: Projeto - TFC - Trybe Futebol Clube
+
+- [ ] 28-1: _Projeto - TFC Trybe Futebol Clube_
+
+#### Bloco 29: Introdução ao MongoDB
+
+- [ ] 29-1: _Introdução NoSQL e MongoDB_
+- [ ] 29-2: _Filter Operators_
+- [ ] 29-3: _Operadores de Consulta_
+- [ ] 29-4: _Updates Simples_
+- [ ] 29-5: _Updates Complexos - Arrays_
+- [ ] 29-6: _Projeto - Commerce_
+
+#### Bloco 30: MongoDB com Node.js e POO
+
+- [ ] 30-1: _Mongoose e arquitetura MSC (camada Model)_
+- [ ] 30-2: _Mongoose e arquitetura MSC (camada Service e Controller)_
+- [ ] 30-3: _Projeto - Car Shop_
+
+#### Bloco 31: Projeto - App de Delivery
+
+- [ ] 31-1: _Projeto - App de Delivery_
+
+#### Bloco 32: MasterClass - VPS, CI/CD
+
+- [ ] 32-1: _Dia 1 - VPS_
+- [ ] 32-2: _Dia 2 - CI/CD_
+
+## Ciência da Computação :hourglass_flowing_sand:
+
+#### Bloco 33: Introdução à Python
+
+- [ ] 33-1: _Ciência da Computação e Aprendendo Python_
+- [ ] 33-2: _Entrada e Saída de Dados_
+- [ ] 33-3: _Testes_
+- [ ] 33-4: _Projeto - Job Insights_
+
+#### Bloco 34: Padrões de Projeto
+
+- [ ] 34-1: _P.O.O em Python_
+- [ ] 34-2: _Padrões - Interator, Adapter, Strategy_
+- [ ] 34-3: _Padrões - Decorator, Observer, Factory_
+- [ ] 34-4: _Projeto - Relatório de Estoque_
+
+#### Bloco 35: Redes e Raspagem de Dados
+
+- [ ] 35-1: _Arquitetura de redes, ferramentas e segurança_
+- [ ] 35-2: _Raspagem de dados_
+- [ ] 35-3: _Outras ferramentas de raspagem de dados_
+- [ ] 35-4: _Projeto -Tech News_
+
+#### Bloco 36: Algoritmos
+
+- [ ] 36-1: _Complexidade de Algoritmos_
+- [ ] 36-2: _Recursividade e Estratégias  para solução de problemas_
+- [ ] 36-3: _Algoritmos de ordenação e busca_
+- [ ] 36-4: _Projeto - Algoritmos_
+
+#### Bloco 37: Estrutura de Dados I: Arrays, Listas, Filas e Pilhas
+
+- [ ] 37-1: _Arquitetura de Computadores_
+- [ ] 37-2: _Arrays_
+- [ ] 37-3: _Nó e Listas Encadeadas_
+- [ ] 37-4: _Pilhas e Filas_
+- [ ] 37-5: _Projeto - TING - Trybe Is Not Google_
+
+#### Bloco 38: Estrutura de Dados II: Hashmaps e Sets
+
+- [ ] 38-1: _Hashmap e Dict_
+- [ ] 38-2: _Set_
+- [ ] 38-3: _Projeto - Restaurant Orders_
