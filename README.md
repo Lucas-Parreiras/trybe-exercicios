@@ -137,3 +137,40 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 #### Bloco 18: Projeto App de Receitas
 
 - [ ] 18-1: _Projeto - App de Receitas_
+
+## Desenvolvimento Back-End :hourglass_flowing_sand:
+
+#### Bloco 19: Docker: Utilizando Containers
+
+- [ ] 19-1: _Utilizando Containers - Docker_
+- [ ] 19-2: _Manipulando Imagens no Docker_
+- [ ] 19-3: _Orquestrando Containers com Docker Compose_
+- [ ] 19-4: _Projeto - Docker Todo-List_
+
+#### Bloco 20: Introdução à SQL
+
+- [ ] 20-1: _Banco de Dados SQL_
+- [ ] 20-2: _Encontrando dados em um banco de dados_
+- [ ] 20-3: _Filtrando dados de forma específica_
+- [ ] 20-4: _Manipulando tabelas_
+- [ ] 20-5: _Projeto - All For One_
+
+#### Bloco 21: Funções SQL, JOINs e Normalização
+
+- [ ] 21-1: _Funções mais usadas no SQL_
+- [ ] 21-2: _Descomplicando JOINs_
+- [ ] 21-3: _Transformando ideias em um modelo de banco de dados_
+- [ ] 21-4: _Projeto - One For All_
+
+#### Bloco 22: Introdução ao Desenvolvimento Web com o Node.js
+
+- [ ] 22-1: _Node.js: Runtime Assíncrono_
+- [ ] 22-2: _Node.js: API REST com Express_
+- [ ] 22-3: _Node.js: Testes de Integração_
+- [ ] 22-4: _Express: Middlewares_
+- [ ] 22-5: _Node.js: Express e Mysql_
+- [ ] 22-6: _Projeto - Talker Manager_
+
+#### Bloco 23: Arquitetura de Software: Model, Service e Controller
+
+- [ ] 23-1: _
