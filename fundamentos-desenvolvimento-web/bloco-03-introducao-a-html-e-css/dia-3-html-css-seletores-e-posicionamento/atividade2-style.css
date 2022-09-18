@@ -1,7 +1,28 @@
-div:hover {
-    border: solid 2px black;
+h3:hover {
+    border: 2px solid black;
 }
 
 h3:first-child {
     color: blue;
+}
+
+h3:nth-child(2) {
+    color: purple;
+}
+
+h3:nth-child(3) {
+    color: yellow;
+    font-size: 30px;
+}
+
+h3:nth-child(4) {
+    color: brown;
+}
+
+h3:nth-child(5) {
+    color: aqua;
+}
+
+h3:nth-child(2n+1) {
+    font-style: italic;
 }
