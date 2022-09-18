@@ -1,0 +1,61 @@
+.prop-ol {
+    background-color: yellow;
+}
+
+ol > li:nth-child(2n) {
+    color: green;
+}
+
+ol > li:nth-child(2n+1) {
+    text-transform: uppercase;
+}
+
+.heading {
+    color: red;
+}
+
+.heading-italic {
+    font-size: 40px;
+    border: 1px solid black;
+}
+
+li {
+    font-size: 20px;
+}
+
+ol > li {
+    font-weight: 800;
+}
+
+.linguagens {
+    color: blue;
+}
+
+.backgroundcolor {
+    background-color: pink;
+}
+
+a:hover {
+    font-weight: 800;
+}
+ 
+#stack {
+    color: orange;
+}
+
+#w3s {
+    color: green;
+}
+
+#mdn {
+    color: black;
+}
+
+#devd {
+    color: yellow;
+}
+
+#trybe {
+    color: green;
+}
+
