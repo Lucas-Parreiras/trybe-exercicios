@@ -2,6 +2,10 @@ body {
     font-family: Lato;
     background-color: #58D2D6;
     font-size: 20px;
+
+}
+
+.main-page {
     width: 80%;
     max-width: 80%;
     margin: auto;
@@ -27,6 +31,7 @@ body {
     background-color: lightcyan;
     border: 1px transparent lightcyan;
     padding: 5px 10px;
+    text-align: center;
 }
 
 .main-text {
@@ -89,6 +94,7 @@ th, td {
     width: 60%;
     float: left;
     display: inline-block;
+    text-align: left;
 }
 
 .curiosits-img {
@@ -111,18 +117,14 @@ th, td {
     position: fixed;
     bottom: 0;
     background-color: darkblue;
-    width: 80%;
     /* border: 2px solid red; */
     color: white;
     text-align: center;
-}
-
-#span {
-    
+    width: 100%;
 }
 
 #ul {
-    margin-block-end: 30px; 
+    margin-block-end: 150px; 
     writing-mode: horizontal-tb;
     /* border: 2px solid red; */
 }
