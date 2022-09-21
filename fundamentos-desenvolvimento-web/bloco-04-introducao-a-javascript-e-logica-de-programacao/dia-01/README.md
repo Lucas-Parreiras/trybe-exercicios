@@ -1,6 +1,6 @@
 # README Dia 1 - JavaScript
 
-## Exercícios 
+## Exercícios 1
 
 - [X] Crie uma constante chamada myName e atribua a ela o seu nome (Exemplo: Carolina).
 - [X] Crie uma constante chamada birthCity e atribua a ela a sua cidade natal.
@@ -10,3 +10,9 @@
 - [X] Altere o valor atribuído à constante birthCity. Faça um console.log(birthCity) novamente! Você saberia explicar por que recebemos uma mensagem de erro? 🤔
 
 R:Não se pode reatribuir valor de variável do tipo constante.
+
+## Exercícios 2 
+
+- [X] Crie uma constante chamada base e uma variável chamada height e atribua os seus respectivos valores: 5 e 8.
+- [X] Crie uma constante chamada area e atribua a ela o resultado da multiplicação da base pela altura. Dica: lembre-se de usar sempre o console.log() para imprimir as variáveis e checar os resultados das operações!
+- [X] Crie uma constante chamada perimeter e atribua a ela a soma de todos os lados do retângulo.
