@@ -26,3 +26,15 @@ R:Não se pode reatribuir valor de variável do tipo constante.
     - Se a nota for menor que 60, imprima "Você foi reprovada(o)"
 - [X] Crie uma estrutura condicional utilizando o if, else if e else para criar o seu algoritmo, e os operadores lógicos que se aplicam a cada situação.
 - [X] Altere o valor da nota para verificar se as condições que você implementou funcionam;
+
+## Exercícios 4
+
+- [X] Crie uma constante chamada "currentHour" que recebe um número entre 4 e 24 de sua escolha, para representar as horas do dia.
+- [X] Crie uma variável chamada "message" que, inicialmente, é uma string vazia.
+- [X] Implemente condicionais para que:
+    - Se o horário for maior ou igual a 22, insira "Não deveríamos comer nada, é hora de dormir" na variável "message".
+    - Se o horário for maior ou igual a 18 e menor que 22, insira "Rango da noite, vamos jantar :D" na variável "message".
+    - Se o horário for maior ou igual a 14 e menor que 18, insira "Vamos fazer um bolo pro café da tarde?" na variável "message".
+    - Se o horário estiver entre 11 e 14, insira "Hora do almoço!!!" na variável "message".
+    - Se o horário estiver entre 4 e 11, insira "Hmmm, cheiro de café recém passado" na variável "message".
+- [X] Agora imprima a variável message fora das suas condições.
