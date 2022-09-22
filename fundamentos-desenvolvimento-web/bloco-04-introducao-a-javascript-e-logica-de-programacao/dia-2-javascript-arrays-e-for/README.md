@@ -24,3 +24,8 @@ Utilizando for, descubra qual o menor valor contido no array e imprima-o;
 Utilizando for, crie um array que vá de 1 até 25 e imprima o resultado;
 
 Utilizando o array que acabou de criar, imprima o resultado da divisão de cada um dos elementos por 2.
+
+## Exercícios bônus!
+
+- [X] Ordene o array numbers em ordem crescente e imprima seus valores;
+- [X] Ordene o array numbers em ordem decrescente e imprima seus valores;
