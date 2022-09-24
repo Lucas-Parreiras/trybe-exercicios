@@ -8,4 +8,13 @@ for(let i = 0; i < array.length; i += 1) {
     }
 }
 console.log(maiorPalavra);
-    
+
+
+let menorPalavra = 'ahsdiuashdiashd';
+
+for(let i = 0; i < array.length; i += 1) {
+    if(array[i].length < menorPalavra.length) {
+        menorPalavra = array[i];
+    }
+}
+console.log(menorPalavra);
