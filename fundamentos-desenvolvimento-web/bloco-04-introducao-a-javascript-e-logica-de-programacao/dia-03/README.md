@@ -14,3 +14,10 @@
 
 - [X] Utilize a estrutura de repetição for para desenvolver um algoritmo que seja capaz de inverter uma palavra. Por exemplo, a palavra “banana” seria invertida para “ananab”. Utilize a string abaixo como exemplo, depois troque por outras para verificar se seu algoritmo está funcionando corretamente.
 
+## Exercício 4:
+
+- [X] Considere o array de strings abaixo:
+    
+    let array = ['java', 'javascript', 'python', 'html', 'css'];
+
+Utilize a estrutura de repetição for para escrever dois algoritmos: um que retorne a maior palavra desse array e outro que retorne a menor. Considere o número de caracteres de cada palavra.

@@ -1,8 +1,11 @@
-const i = 101;
-let resultado = 0;
+let array = ['java', 'javascript', 'python', 'html', 'css'];
 
-for(let index = 0; index < i; index += 1) {
-    resultado += index;
+let maiorPalavra = 'oi';
+
+for(let i = 0; i < array.length; i += 1) {
+    if(array[i].length > maiorPalavra.length) {
+        maiorPalavra = array[i];
+    }
 }
-
-console.log(resultado);
+console.log(maiorPalavra);
+    
