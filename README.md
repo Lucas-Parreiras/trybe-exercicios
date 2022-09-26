@@ -8,28 +8,28 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 ## Fundamentos do Desenvolvimento Web :hourglass_flowing_sand:
 
-##### Bloco 1: Unix & Bash
+##### Seção 1: Unix & Bash
 
 - [X] 1-1: _Fundamentos do Desenvolvimento Web_
 - [X] 1-2: _Introdução - Unix & Shell_
 - [X] 1-3: _Unix & Shell- Part 1_
 - [X] 1-4: _Unix & Shell- Part 2_
 
-##### Bloco 2: Git & GitHub
+##### Seção 2: Git & GitHub
 
 - [X] 2-1: _O que é e para que serve?_
 - [X] 2-2: _Entendendo os comandos_
 - [X] 2-3: _Internet - Entendendo como ela funciona_
 
-#### Bloco 3: Introcução à HTML e CSS
+#### Seção 3: Introcução à HTML e CSS
 
 - [X] 3-1: _HTML & CSS - Estruturas de página_
 - [X] 3-2: _HTML & CSS - Primeiros passos em CSS_
-- [ ] 3-3: _HTML & CSS - Seletores e posicionamento_
-- [ ] 3-4: _HTML Semântico_
+- [X] 3-3: _HTML & CSS - Seletores e posicionamento_
+- [X] 3-4: _HTML Semântico_
 - [ ] 3-5: _Projeto - Lessons Learned_
 
-#### Bloco 4: Introdução à JavaScript e Lógica de Programação
+#### Seção 4: Introdução à JavaScript e Lógica de Programação
 
 - [ ] 4-1: _JavaScript - Primeiros passos_
 - [ ] 4-2: _JavaScript - Array e loop for_
@@ -37,7 +37,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [ ] 4-4: _JavaScript - Objetos e funções_
 - [ ] 4-5: _Projeto - Playground functions_
 
-#### Bloco 5: JavaScript: DOM, Eventos e Web Storage
+#### Seção 5: JavaScript: DOM, Eventos e Web Storage
 
 - [ ] 5-1: _JavaScript - DOM e Seletores_
 - [ ] 5-2: _JavaScript - Trabalhando com elementos_
@@ -49,7 +49,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [ ] 5-8: _Projeto - Advinhe a Cor_
 - [ ] 5-9: _Projeto - Carta Misteriosa_
 
-#### Bloco 6: HTML e CSS: Forms, Flexbox e Responsivo
+#### Seção 6: HTML e CSS: Forms, Flexbox e Responsivo
 
 - [ ] 6-1: _HTML & CSS - Forms_
 - [ ] 6-2: _Bibliotecas JavaScript e Frameworks CSS_
@@ -59,14 +59,14 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [ ] 6-5: _CSS Responsivo - Mobile first_
 - [ ] 6-6: _Projeto - Trybewarts_
 
-#### Bloco 7: Introdução à JavaScript ES6 e Testes Unitários
+#### Seção 7: Introdução à JavaScript ES6 e Testes Unitários
 
 - [ ] 7-1: _JavaScript ES6 - let, const, arrow functions e template literals_
 - [ ] 7-2: _JavaScript ES6 - Fluxo de exceção e Objetos_
 - [ ] 7-3: _Primeiros passos em Jest_
 - [ ] 7-4: _Projeto - JavaScript Testes Unitários_
 
-#### Bloco 8: Higher Order Functions do JavaScript ES6
+#### Seção 8: Higher Order Functions do JavaScript ES6
 
 - [ ] 8-1: _JavaScript ES6 - Introdução à Higher Order Functions_
 - [ ] 8-2: _JavaScript ES6 - Higher Order Functions - forEach, find, some, every, sort_
