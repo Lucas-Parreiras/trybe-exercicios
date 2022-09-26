@@ -4,7 +4,7 @@ let test = 0;
 function maiorValor(param) {
     for(let index = 0; index < param.length; index += 1) {
         if(param[index] > test) {
-            test = param[index];
+            test = index;
         }
     }
     console.log(test);
@@ -12,3 +12,5 @@ function maiorValor(param) {
 }
 
 maiorValor(arrayTest);
+
+// Tudo certo!
