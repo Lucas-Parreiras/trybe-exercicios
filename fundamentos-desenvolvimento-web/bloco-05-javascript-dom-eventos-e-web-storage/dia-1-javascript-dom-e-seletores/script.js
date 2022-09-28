@@ -4,6 +4,6 @@ function headerBackgroundColor(id, newColor) {
 headerBackgroundColor("header-container", "green");
 
 function taskBackColor(param1, newBackColor) {
-    document.getElementsByClassName(param1).style.backgroundColor = newBackColor;
+    document.getElementsByTagName(param1).style.backgroundColor = newBackColor;
 }
-taskBackColor("emergency-tasks", "purple");
+taskBackColor("section", "orange");
