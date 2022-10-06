@@ -1,0 +1,130 @@
+body {
+    font-family: Lato;
+    background-color: #58D2D6;
+    font-size: 20px;
+
+}
+
+.main-page {
+    width: 80%;
+    max-width: 80%;
+    margin: auto;
+}
+
+.header {
+    text-align: center;
+    background-color: darkblue;
+    color: white;
+    padding: 5px 50px; 
+}
+
+.navegator {
+    display: inline;
+    margin-right: 30px;
+}
+
+.header-article {
+    text-align: center;
+}
+
+.nav-style {
+    background-color: lightcyan;
+    border: 1px transparent lightcyan;
+    padding: 5px 10px;
+    text-align: center;
+}
+
+.main-text {
+    display: inline-block;
+    width: 80%;
+    text-align: center;
+    margin-left: 20px;
+    /* border: 2px solid red; */
+}
+
+#p-baseinfo {
+    width: 50%;
+    text-align: left;
+    display: inline-block;
+    /* border: 2px solid red; */
+}
+
+#img-baseinfo {
+    width: 25%;
+    float: left;
+    border-radius: 20%;
+    display: inline-block;
+    margin-top: 60px;
+    /* border: 2px solid red; */
+}
+
+.classification {
+    text-align: center;
+    display: block;
+}
+
+.table {
+    width: 100%;
+}
+
+table, th, td {
+    border: 1px solid black;
+    padding: 5px;
+}
+
+th, td {
+    background-color: lightcyan;
+}
+
+.header-cor {
+    font-size: 22px;
+    width: 80%;
+    text-align: left;
+    vertical-align: middle;
+    margin: auto;
+    /* border: 2px solid red; */
+}
+
+.div-secao1 {
+    /* border: 2px solid red; */
+}
+
+.curiosits {
+    /* border: 2px solid red; */
+    width: 60%;
+    float: left;
+    display: inline-block;
+    text-align: left;
+}
+
+.curiosits-img {
+    /* border: 2px solid red; */
+    border-radius: 20%;
+    width: 25%;
+    display:inline-block
+}
+
+#aside {
+    width: 20%;
+    float: right;
+}
+
+#img-aside {
+    border-radius: 20%;
+}
+
+#footer {
+    position: fixed;
+    bottom: 0;
+    background-color: darkblue;
+    /* border: 2px solid red; */
+    color: white;
+    text-align: center;
+    width: 100%;
+}
+
+#ul {
+    margin-block-end: 150px; 
+    writing-mode: horizontal-tb;
+    /* border: 2px solid red; */
+}
