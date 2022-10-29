@@ -100,3 +100,11 @@ function booksOrderedByReleaseYearDesc(array) {
   return array.sort( (a, b) => b.releaseYear - a.releaseYear )
 }
 console.log(booksOrderedByReleaseYearDesc(books));
+
+// Exercício 5
+
+function everyoneWasBornOnSecXX(array) {
+  return array.every( (book) => book.author.birthYear > 1899 && book.author.birthYear < 2001 )
+}
+
+console.log(everyoneWasBornOnSecXX(books));
